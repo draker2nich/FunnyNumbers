@@ -15,7 +15,9 @@
 - Material Design Components
 
 ## Скриншоты
-[Здесь можно добавить скриншоты приложения]
+![photo_2025-05-10_14-32-37](https://github.com/user-attachments/assets/d10317c1-9c19-4767-a866-a61c949d323e)
+![photo_2025-05-10_14-32-14](https://github.com/user-attachments/assets/82373ed4-e294-4cbd-918f-9215981a29f2)
+
 
 ## Как установить
 1. Клонируйте репозиторий
