@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FunnyNumbers</string>
+    <string name="title">Числовая викторина</string>
+    <string name="score_format">%1$d</string>
+    <string name="timer_format">%1$d</string>
+    <string name="start_prompt">Нажмите кнопку \'Новая игра\', чтобы начать</string>
+    <string name="answer_hint">Введите ответ</string>
+    <string name="submit_button">Проверить</string>
+    <string name="new_game_button">Новая игра</string>
+    <string name="correct_answer">Верно! +10 очков</string>
+    <string name="wrong_answer">Неверно! Правильный ответ: %1$s</string>
+    <string name="game_over_title">Игра окончена!</string>
+    <string name="game_over_message">Ваш финальный счет: %1$d</string>
+    <string name="new_game">Новая игра</string>
+    <string name="exit">Выход</string>
+    <string name="enter_answer_prompt">Пожалуйста, введите ответ</string>
+    <string name="score_icon_description">Иконка счета</string>
+    <string name="timer_icon_description">Иконка таймера</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Основная цветовая схема -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="accent">#03DAC5</color>
+    
+    <!-- Дополнительные цвета -->
+    <color name="background">#F8F8FF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="question_background">#EDE7F6</color>
+    <color name="correct_answer">#4CAF50</color>
+    <color name="wrong_answer">#F44336</color>
+    <color name="timer_warning">#F44336</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="button_enabled">#6200EE</color>
+    <color name="button_disabled">#BDBDBD</color>
+    <color name="divider">#EEEEEE</color>
+</resources>
